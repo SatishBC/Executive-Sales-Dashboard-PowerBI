@@ -1,0 +1,201 @@
+Store_ID,Store_Name,City,State,Region,Store_Type,Open_Date,Manager_Name,Area_sqft,Status
+1,Store_1,Delhi,KA,East,Online,2024-03-01,Manager_1,1602,Closed
+2,Store_2,Mumbai,WB,South,High Street,2022-07-10,Manager_2,1310,Closed
+3,Store_3,Delhi,TN,West,Online,2024-09-06,Manager_3,4263,Closed
+4,Store_4,Delhi,KA,West,Mall,2022-05-12,Manager_4,576,Closed
+5,Store_5,Delhi,KA,West,Online,2023-06-07,Manager_5,2809,Active
+6,Store_6,Mumbai,WB,South,High Street,2022-01-17,Manager_6,1525,Closed
+7,Store_7,Chennai,MH,East,High Street,2021-08-04,Manager_7,2564,Closed
+8,Store_8,Kolkata,DL,North,Online,2023-01-26,Manager_8,4939,Closed
+9,Store_9,Kolkata,MH,East,High Street,2022-06-27,Manager_9,3241,Closed
+10,Store_10,Mumbai,KA,South,Online,2023-07-05,Manager_10,4499,Closed
+11,Store_11,Chennai,DL,South,High Street,2023-11-01,Manager_11,3728,Active
+12,Store_12,Kolkata,TN,East,Online,2021-03-23,Manager_12,4769,Active
+13,Store_13,Delhi,TN,South,Online,2023-09-21,Manager_13,4058,Closed
+14,Store_14,Mumbai,DL,East,Mall,2024-03-25,Manager_14,1345,Active
+15,Store_15,Mumbai,KA,East,Mall,2021-06-15,Manager_15,1192,Closed
+16,Store_16,Bangalore,WB,West,Online,2021-07-27,Manager_16,4548,Closed
+17,Store_17,Bangalore,MH,South,Mall,2021-01-24,Manager_17,1832,Closed
+18,Store_18,Bangalore,MH,South,Mall,2023-03-18,Manager_18,3537,Active
+19,Store_19,Chennai,WB,West,High Street,2023-06-06,Manager_19,4832,Closed
+20,Store_20,Mumbai,WB,West,Mall,2022-11-22,Manager_20,1774,Closed
+21,Store_21,Bangalore,TN,West,High Street,2021-11-28,Manager_21,1744,Active
+22,Store_22,Mumbai,WB,North,Mall,2023-09-29,Manager_22,837,Closed
+23,Store_23,Delhi,DL,South,Mall,2021-08-29,Manager_23,3794,Active
+24,Store_24,Bangalore,TN,East,Online,2023-04-16,Manager_24,836,Active
+25,Store_25,Mumbai,KA,East,Mall,2021-06-30,Manager_25,2367,Closed
+26,Store_26,Chennai,TN,East,Online,2024-08-09,Manager_26,4505,Active
+27,Store_27,Chennai,TN,South,Online,2024-01-12,Manager_27,994,Closed
+28,Store_28,Chennai,MH,North,Online,2021-03-31,Manager_28,4386,Active
+29,Store_29,Bangalore,WB,South,Online,2022-03-15,Manager_29,660,Active
+30,Store_30,Chennai,DL,South,Mall,2022-06-27,Manager_30,2536,Active
+31,Store_31,Kolkata,WB,South,Online,2021-07-12,Manager_31,2241,Closed
+32,Store_32,Delhi,MH,South,Mall,2022-05-03,Manager_32,2007,Active
+33,Store_33,Mumbai,WB,South,Mall,2022-09-04,Manager_33,4060,Closed
+34,Store_34,Kolkata,DL,North,High Street,2024-10-04,Manager_34,1875,Closed
+35,Store_35,Bangalore,WB,West,High Street,2024-01-18,Manager_35,2053,Closed
+36,Store_36,Mumbai,MH,East,High Street,2023-08-13,Manager_36,2781,Active
+37,Store_37,Mumbai,DL,South,Online,2024-02-21,Manager_37,2368,Active
+38,Store_38,Chennai,WB,South,Mall,2024-10-29,Manager_38,2101,Closed
+39,Store_39,Mumbai,MH,South,Mall,2023-12-07,Manager_39,4327,Closed
+40,Store_40,Mumbai,MH,East,Online,2024-12-27,Manager_40,3980,Closed
+41,Store_41,Delhi,TN,North,High Street,2021-05-26,Manager_41,1799,Closed
+42,Store_42,Bangalore,DL,East,High Street,2023-10-24,Manager_42,1210,Closed
+43,Store_43,Kolkata,DL,North,Mall,2024-08-30,Manager_43,4667,Closed
+44,Store_44,Chennai,WB,West,Mall,2021-11-23,Manager_44,2546,Active
+45,Store_45,Delhi,TN,South,Mall,2023-09-15,Manager_45,3381,Closed
+46,Store_46,Kolkata,DL,North,High Street,2024-01-10,Manager_46,2317,Closed
+47,Store_47,Kolkata,MH,East,Mall,2021-06-02,Manager_47,2698,Closed
+48,Store_48,Delhi,DL,North,High Street,2022-02-06,Manager_48,3832,Closed
+49,Store_49,Chennai,TN,North,High Street,2023-03-31,Manager_49,1603,Active
+50,Store_50,Bangalore,KA,West,High Street,2022-05-03,Manager_50,3677,Active
+51,Store_51,Delhi,MH,South,Online,2021-03-08,Manager_51,4094,Closed
+52,Store_52,Delhi,DL,South,Online,2021-03-30,Manager_52,3974,Closed
+53,Store_53,Delhi,MH,East,Mall,2024-03-04,Manager_53,2677,Closed
+54,Store_54,Chennai,WB,East,High Street,2021-07-21,Manager_54,1694,Active
+55,Store_55,Delhi,MH,West,Mall,2022-03-04,Manager_55,1035,Active
+56,Store_56,Delhi,DL,North,High Street,2023-07-29,Manager_56,1569,Active
+57,Store_57,Mumbai,WB,North,Mall,2024-04-17,Manager_57,4869,Closed
+58,Store_58,Mumbai,WB,East,Mall,2021-12-05,Manager_58,632,Active
+59,Store_59,Mumbai,WB,South,Online,2021-03-20,Manager_59,763,Closed
+60,Store_60,Mumbai,KA,North,Online,2022-01-13,Manager_60,4962,Closed
+61,Store_61,Delhi,KA,West,Online,2021-06-14,Manager_61,2552,Closed
+62,Store_62,Mumbai,WB,East,Online,2023-01-19,Manager_62,4589,Closed
+63,Store_63,Kolkata,DL,North,High Street,2023-07-26,Manager_63,3347,Closed
+64,Store_64,Bangalore,WB,South,Mall,2021-06-04,Manager_64,857,Active
+65,Store_65,Mumbai,WB,South,Mall,2024-02-21,Manager_65,4920,Active
+66,Store_66,Chennai,MH,West,High Street,2024-05-10,Manager_66,1250,Active
+67,Store_67,Bangalore,MH,West,High Street,2023-11-30,Manager_67,3750,Closed
+68,Store_68,Kolkata,MH,East,Mall,2021-06-18,Manager_68,4851,Active
+69,Store_69,Bangalore,TN,East,Online,2023-12-30,Manager_69,2758,Closed
+70,Store_70,Bangalore,MH,South,Online,2023-03-03,Manager_70,1410,Closed
+71,Store_71,Kolkata,MH,South,Online,2024-09-15,Manager_71,4310,Closed
+72,Store_72,Mumbai,DL,North,High Street,2024-11-23,Manager_72,1083,Active
+73,Store_73,Kolkata,KA,North,Mall,2023-09-30,Manager_73,3938,Active
+74,Store_74,Chennai,KA,North,High Street,2021-12-20,Manager_74,1076,Active
+75,Store_75,Kolkata,KA,West,Mall,2021-11-24,Manager_75,3076,Active
+76,Store_76,Delhi,TN,West,Online,2022-05-13,Manager_76,2371,Closed
+77,Store_77,Delhi,WB,North,Online,2024-12-13,Manager_77,1652,Closed
+78,Store_78,Bangalore,MH,South,Online,2021-12-11,Manager_78,2283,Closed
+79,Store_79,Mumbai,DL,East,Mall,2022-10-05,Manager_79,1593,Closed
+80,Store_80,Mumbai,TN,West,Online,2023-02-28,Manager_80,2599,Closed
+81,Store_81,Delhi,KA,West,Mall,2022-01-12,Manager_81,2641,Active
+82,Store_82,Chennai,TN,North,High Street,2024-08-11,Manager_82,2633,Active
+83,Store_83,Kolkata,DL,East,Online,2024-08-04,Manager_83,1017,Closed
+84,Store_84,Kolkata,TN,West,High Street,2024-07-01,Manager_84,1241,Closed
+85,Store_85,Kolkata,KA,East,High Street,2022-03-10,Manager_85,2977,Closed
+86,Store_86,Chennai,WB,West,Mall,2022-05-16,Manager_86,3376,Closed
+87,Store_87,Chennai,KA,East,High Street,2024-01-14,Manager_87,542,Closed
+88,Store_88,Kolkata,KA,East,Mall,2022-06-05,Manager_88,3941,Active
+89,Store_89,Kolkata,KA,West,Mall,2022-07-16,Manager_89,903,Closed
+90,Store_90,Chennai,TN,East,High Street,2022-05-28,Manager_90,1826,Active
+91,Store_91,Kolkata,DL,South,Mall,2022-05-31,Manager_91,2716,Active
+92,Store_92,Chennai,KA,West,Mall,2022-05-12,Manager_92,2649,Closed
+93,Store_93,Bangalore,TN,West,Mall,2022-08-25,Manager_93,2893,Closed
+94,Store_94,Delhi,DL,South,High Street,2023-10-12,Manager_94,3150,Active
+95,Store_95,Delhi,WB,East,Mall,2024-03-31,Manager_95,4845,Active
+96,Store_96,Chennai,KA,South,Online,2022-10-29,Manager_96,1377,Active
+97,Store_97,Kolkata,MH,West,High Street,2021-12-31,Manager_97,2386,Closed
+98,Store_98,Delhi,TN,South,High Street,2024-12-19,Manager_98,1803,Active
+99,Store_99,Mumbai,WB,East,Mall,2023-08-25,Manager_99,2240,Closed
+100,Store_100,Kolkata,WB,South,High Street,2021-12-30,Manager_100,1612,Active
+101,Store_101,Chennai,WB,West,Online,2021-04-18,Manager_101,4376,Closed
+102,Store_102,Mumbai,TN,East,High Street,2023-11-04,Manager_102,2398,Closed
+103,Store_103,Chennai,DL,West,High Street,2023-11-13,Manager_103,747,Active
+104,Store_104,Kolkata,MH,West,High Street,2022-09-15,Manager_104,3760,Closed
+105,Store_105,Bangalore,DL,North,Mall,2021-11-17,Manager_105,1067,Closed
+106,Store_106,Bangalore,KA,West,Online,2022-05-25,Manager_106,4309,Active
+107,Store_107,Bangalore,MH,West,Online,2022-11-03,Manager_107,1688,Closed
+108,Store_108,Kolkata,DL,East,Online,2023-12-01,Manager_108,3095,Active
+109,Store_109,Kolkata,KA,East,High Street,2021-10-31,Manager_109,1853,Active
+110,Store_110,Mumbai,MH,East,Online,2023-08-27,Manager_110,4112,Active
+111,Store_111,Kolkata,TN,South,Mall,2024-12-09,Manager_111,1480,Closed
+112,Store_112,Kolkata,KA,South,High Street,2024-11-18,Manager_112,668,Closed
+113,Store_113,Mumbai,DL,East,Mall,2021-12-31,Manager_113,3664,Active
+114,Store_114,Mumbai,MH,South,High Street,2023-01-08,Manager_114,3171,Closed
+115,Store_115,Chennai,KA,North,Mall,2023-09-16,Manager_115,878,Active
+116,Store_116,Delhi,KA,South,High Street,2023-10-18,Manager_116,2432,Active
+117,Store_117,Delhi,TN,North,Mall,2024-12-23,Manager_117,693,Active
+118,Store_118,Chennai,KA,East,Online,2021-06-01,Manager_118,763,Closed
+119,Store_119,Bangalore,MH,East,High Street,2021-09-16,Manager_119,1971,Closed
+120,Store_120,Kolkata,WB,South,High Street,2022-12-08,Manager_120,2515,Closed
+121,Store_121,Mumbai,MH,East,Mall,2021-08-11,Manager_121,1800,Active
+122,Store_122,Mumbai,MH,East,Mall,2024-07-13,Manager_122,3700,Active
+123,Store_123,Bangalore,TN,West,Mall,2021-08-18,Manager_123,3873,Closed
+124,Store_124,Mumbai,TN,East,High Street,2022-03-15,Manager_124,1073,Closed
+125,Store_125,Bangalore,KA,West,Mall,2021-05-30,Manager_125,2037,Active
+126,Store_126,Chennai,TN,East,Online,2023-06-29,Manager_126,1883,Active
+127,Store_127,Bangalore,KA,North,Mall,2023-09-05,Manager_127,1880,Active
+128,Store_128,Delhi,WB,North,Mall,2024-03-05,Manager_128,4037,Active
+129,Store_129,Bangalore,DL,East,Mall,2022-09-27,Manager_129,3659,Closed
+130,Store_130,Chennai,TN,North,Online,2022-02-03,Manager_130,2023,Closed
+131,Store_131,Bangalore,TN,North,Mall,2022-09-14,Manager_131,4432,Active
+132,Store_132,Chennai,WB,North,Mall,2021-05-23,Manager_132,4122,Active
+133,Store_133,Delhi,TN,South,High Street,2023-08-06,Manager_133,1395,Closed
+134,Store_134,Kolkata,WB,North,High Street,2023-12-30,Manager_134,3893,Active
+135,Store_135,Chennai,KA,West,Mall,2021-02-23,Manager_135,964,Active
+136,Store_136,Kolkata,TN,South,High Street,2023-04-24,Manager_136,2110,Closed
+137,Store_137,Chennai,TN,West,Mall,2023-07-27,Manager_137,1112,Closed
+138,Store_138,Bangalore,KA,West,Mall,2024-11-27,Manager_138,3712,Closed
+139,Store_139,Kolkata,TN,West,Online,2022-07-06,Manager_139,1104,Active
+140,Store_140,Chennai,MH,South,Mall,2023-11-17,Manager_140,1120,Active
+141,Store_141,Chennai,WB,East,High Street,2021-10-26,Manager_141,3102,Closed
+142,Store_142,Kolkata,DL,North,High Street,2022-11-23,Manager_142,2683,Closed
+143,Store_143,Chennai,MH,North,High Street,2022-07-12,Manager_143,4300,Active
+144,Store_144,Kolkata,DL,East,High Street,2024-09-05,Manager_144,655,Active
+145,Store_145,Delhi,MH,East,Mall,2022-03-21,Manager_145,3853,Active
+146,Store_146,Mumbai,MH,West,Online,2021-04-08,Manager_146,4411,Closed
+147,Store_147,Delhi,MH,South,Online,2024-02-24,Manager_147,3417,Closed
+148,Store_148,Kolkata,WB,West,Mall,2021-02-27,Manager_148,3617,Active
+149,Store_149,Bangalore,DL,North,High Street,2021-06-26,Manager_149,3215,Closed
+150,Store_150,Bangalore,KA,East,Online,2022-12-20,Manager_150,4839,Closed
+151,Store_151,Mumbai,KA,North,Online,2024-08-01,Manager_151,949,Closed
+152,Store_152,Kolkata,TN,East,Mall,2022-10-28,Manager_152,4461,Active
+153,Store_153,Chennai,WB,South,High Street,2023-11-17,Manager_153,1569,Active
+154,Store_154,Delhi,WB,West,Online,2021-11-19,Manager_154,4517,Closed
+155,Store_155,Delhi,WB,North,Mall,2022-11-06,Manager_155,4091,Active
+156,Store_156,Mumbai,MH,South,Online,2024-06-27,Manager_156,3319,Closed
+157,Store_157,Mumbai,WB,North,Online,2024-10-25,Manager_157,2785,Closed
+158,Store_158,Mumbai,KA,East,High Street,2023-04-26,Manager_158,2535,Active
+159,Store_159,Mumbai,WB,North,High Street,2021-03-31,Manager_159,1690,Closed
+160,Store_160,Mumbai,MH,South,Online,2021-05-11,Manager_160,1899,Closed
+161,Store_161,Mumbai,DL,South,High Street,2023-11-19,Manager_161,4240,Closed
+162,Store_162,Chennai,WB,West,Online,2022-10-24,Manager_162,2748,Closed
+163,Store_163,Chennai,DL,North,Online,2024-01-15,Manager_163,3293,Closed
+164,Store_164,Delhi,TN,East,Online,2021-02-27,Manager_164,1223,Closed
+165,Store_165,Delhi,MH,North,Mall,2023-12-17,Manager_165,1941,Active
+166,Store_166,Mumbai,WB,West,High Street,2023-09-21,Manager_166,586,Closed
+167,Store_167,Delhi,TN,East,High Street,2024-11-18,Manager_167,4649,Active
+168,Store_168,Mumbai,TN,East,Online,2023-11-15,Manager_168,2251,Active
+169,Store_169,Chennai,DL,West,High Street,2021-07-09,Manager_169,3920,Active
+170,Store_170,Bangalore,KA,East,Online,2023-08-17,Manager_170,2983,Active
+171,Store_171,Chennai,KA,South,High Street,2021-03-17,Manager_171,3712,Active
+172,Store_172,Kolkata,KA,South,High Street,2022-01-06,Manager_172,4422,Closed
+173,Store_173,Chennai,KA,East,Online,2023-06-18,Manager_173,2989,Closed
+174,Store_174,Kolkata,MH,North,High Street,2023-05-01,Manager_174,1986,Active
+175,Store_175,Delhi,WB,East,Online,2022-05-21,Manager_175,4027,Closed
+176,Store_176,Chennai,WB,North,Mall,2021-07-02,Manager_176,572,Active
+177,Store_177,Bangalore,MH,West,Online,2021-06-03,Manager_177,1224,Closed
+178,Store_178,Chennai,DL,South,High Street,2024-07-16,Manager_178,4254,Active
+179,Store_179,Chennai,WB,South,Mall,2023-06-22,Manager_179,3495,Active
+180,Store_180,Chennai,TN,West,Mall,2024-07-25,Manager_180,4865,Active
+181,Store_181,Mumbai,WB,West,Online,2024-09-25,Manager_181,718,Closed
+182,Store_182,Chennai,MH,South,Mall,2023-11-13,Manager_182,1046,Closed
+183,Store_183,Chennai,DL,West,Online,2024-12-26,Manager_183,4229,Active
+184,Store_184,Bangalore,WB,East,High Street,2022-06-10,Manager_184,2468,Active
+185,Store_185,Kolkata,MH,East,Online,2022-08-29,Manager_185,1759,Closed
+186,Store_186,Kolkata,TN,North,Mall,2024-09-28,Manager_186,3433,Closed
+187,Store_187,Bangalore,KA,North,Online,2023-05-29,Manager_187,3009,Active
+188,Store_188,Delhi,TN,North,Online,2023-12-12,Manager_188,4508,Active
+189,Store_189,Chennai,TN,East,High Street,2021-12-05,Manager_189,4572,Active
+190,Store_190,Delhi,DL,South,Online,2023-12-01,Manager_190,2062,Closed
+191,Store_191,Bangalore,WB,North,High Street,2022-06-02,Manager_191,2585,Active
+192,Store_192,Delhi,KA,East,Mall,2022-02-11,Manager_192,2289,Closed
+193,Store_193,Kolkata,MH,South,Mall,2021-05-18,Manager_193,4169,Closed
+194,Store_194,Mumbai,KA,West,Online,2024-01-28,Manager_194,2981,Active
+195,Store_195,Delhi,WB,East,Online,2021-12-07,Manager_195,3930,Closed
+196,Store_196,Mumbai,DL,West,Mall,2024-09-01,Manager_196,704,Active
+197,Store_197,Delhi,WB,North,Mall,2022-06-26,Manager_197,1241,Active
+198,Store_198,Bangalore,MH,South,Mall,2021-08-13,Manager_198,3388,Closed
+199,Store_199,Mumbai,KA,East,Online,2021-09-18,Manager_199,3994,Active
+200,Store_200,Delhi,TN,North,Mall,2024-06-24,Manager_200,4763,Closed
